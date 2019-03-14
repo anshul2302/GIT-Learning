@@ -1,0 +1,24 @@
+Error Log - 
+2019-02-21 00:43:56,489 ERROR [Dell.FTA3.File] - Populate DellDataBlocks failed because: Exception of type 'System.OutOfMemoryException' was thrown 
+
+8448789517 - Star insurance service number 
+
+GE1 Webservices access status
+CCC : http://penuwgptcccwb1.pen.apac.dell.com/CorpWebservices/ProjectQuery.asmx - Able to Access
+APCC : http://penuwgptwb1.pen.apac.dell.com/CorpWebservices/ProjectQuery.asmx - Able to Access
+ABU : http://ausuwgptdwb05.aus.amer.dell.com/CorpWebservices/ProjectQuery.asmx - Able to Access
+
+EMEA : http://ausuwgptemea01.aus.amer.dell.com/CorpWebservices/ProjectQuery.asmx - Able to Access
+Alternate EMEA -   http://ausuwgptemea01.aus.amer.dell.com/GPTWebService/GptWebservice.asmx - Able to Access 
+
+
+
+
+
+Story - 98696,94703, 94682,94619  -These Stories are under Kanban Iteraton path. This should be under FTA Sprint 0 Iteration path as it belongs to Foundation work.
+
+Exploratory Testing :- 
+
+Session 5: Exploratory test session on Launching FTA Client  3/1/2019 3:36:29 PM
+
+
