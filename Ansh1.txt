@@ -22,3 +22,4 @@ Exploratory Testing :-
 Session 5: Exploratory test session on Launching FTA Client  3/1/2019 3:36:29 PM
 
 
+Modification  for first time to see git status command.
